@@ -1,2 +1,1 @@
-# C-projects
-Showcasing different projects with varying degree of complexity in C
+# Command Line Tic-Tac-Toe in C
